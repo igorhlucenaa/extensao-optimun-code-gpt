@@ -1,4 +1,4 @@
-# optimun-code-gpt README
+# optimun-code-gpt README (Produzido com Yeoman)
 
 This is the README for your extension "optimun-code-gpt". After writing up a brief description, we recommend including the following sections.
 
